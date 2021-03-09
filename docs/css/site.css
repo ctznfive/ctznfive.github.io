@@ -2,9 +2,10 @@ body {
   font-family: 'Fira Sans', Helvetica, sans-serif;
   line-height: 1.2;
   font-size: 16px;
-  background: #fff;
-  color: #444;
+  background: #0f1012;
+  color: #ddd;
   margin: 0;
+  border-top: 5px solid #1692cc;
 }
 @media (max-width: 799px) {
   body {
@@ -19,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #444;
+  color: #1692cc;
 }
 body h1 b,
 body h2 b,
@@ -37,8 +38,7 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 28px;
-  margin-top: 40px;
+  font-size: 24px;
 }
 body h2 {
   margin-top: 60px;
@@ -58,11 +58,12 @@ body a {
   color: #1692cc;
 }
 body a:hover {
-  color: #91351c;
+  color: #73bde0;
   text-decoration: underline;
 }
 body pre {
-  background: white;
+  background: 111;
+  box-shadow: none;
 }
 body pre.src {
   overflow-y: auto !important;
@@ -153,10 +154,9 @@ body #postamble {
   text-align: center;
   color: #aaa;
   padding: 15px 0;
-  border-top: 1px solid #e2e2e2;
 }
 body #postamble a {
-  color: #e9a390;
+  color: #1692cc;
 }
 @media (min-width: 800px) {
   body #preamble {
@@ -189,8 +189,7 @@ body .intro img {
 body .nav {
   text-align: center;
   margin-top: 30px;
-  border-bottom: 3px solid #1692cc;
-  font-size: 14px;
+  font-size: 16px;
   text-transform: uppercase;
 }
 body .nav ul {
@@ -207,7 +206,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #888;
+  color: #1692cc;
 }
 body #disqus_thread {
   margin-top: 40px;

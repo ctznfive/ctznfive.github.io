@@ -1,4 +1,4 @@
-#+title: ctznfive.xyz
+#+title: Home
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
@@ -15,4 +15,4 @@ I'm just an ordinary person who's mostly interested in unix, lisp, cybersecurity
 
 *TOOLS I USE* : [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][Emacs, Vim, Zsh, i3, Urxvt, etc]]
 
-*CV* : Available on request
+*CV* : [[mailto:ctznfive@gmail.com][Available on request]]
