@@ -1,10 +1,10 @@
 body {
-  font-family: 'Share Tech Mono', Helvetica, sans-serif;
-  line-height: 1.05;
-  font-size: 19px;
-  background: #000;
-  color: #ccc;
-  margin: 10;
+  font-family: 'Fira Sans', Helvetica, sans-serif;
+  line-height: 1.2;
+  font-size: 16px;
+  background: #fff;
+  color: #444;
+  margin: 0;
 }
 @media (max-width: 799px) {
   body {
@@ -19,7 +19,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #bd4281;
+  color: #444;
 }
 body h1 b,
 body h2 b,
@@ -37,21 +37,13 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 28px;
-  margin-top: 30px;
-}
-.gray {
-    font-weight: lighter;
-    color: gray;
-}
-.black {
-    font-weight: lighter;
-    color: black;
+  font-size: 32px;
+  margin-top: 40px;
 }
 body h2 {
   margin-top: 60px;
   position: relative;
-  font-size: 26px;
+  font-size: 32px;
 }
 body h3 {
   font-size: 22px;
@@ -63,24 +55,24 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #bd4281;
+  color: #1692cc;
 }
 body a:hover {
-  color: #ccbdb2;
+  color: #91351c;
   text-decoration: underline;
 }
 body pre {
-  background: #1d1d1e;
+  background: white;
 }
 body pre.src {
   overflow-y: auto !important;
-  font-size 16px;
+  font-size: 16px;
 }
 body code {
-  background: #1d1d1e;
+  background: #eee;
   border: 1px solid #ccc;
   padding: 0px 4px;
-  color: #aaa;
+  color: #666;
   overflow-x: auto;
   font-size: .9em;
 }
@@ -152,19 +144,19 @@ body .org-info-js_info-navigation {
   }
 }
 body #content {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 body #postamble {
   font-size: 0.8em;
   line-height: 1.8em;
   margin-top: 50px;
   text-align: center;
-  color: #bd4281;
+  color: #aaa;
   padding: 15px 0;
-  border-top: 1px solid #bd4281;
+  border-top: 1px solid #e2e2e2;
 }
 body #postamble a {
-  color: #aaa;
+  color: #e9a390;
 }
 @media (min-width: 800px) {
   body #preamble {
@@ -174,9 +166,7 @@ body #postamble a {
   }
 }
 body .intro {
-  margin: 0 auto;
-  max-width: 700px !important;
-  width: 700px !important;
+  padding-top: 20px;
   color: #BBB;
   text-align: center;
 }
@@ -188,29 +178,27 @@ body .intro h1 {
   padding: 0;
 }
 body .intro p {
-  color: #bd4281;
-  font-size: 18px !important;
-  text-align: right;
+  color: #aaa;
+  font-size: 14px !important;
+  text-align: center;
 }
 body .intro img {
   border-radius: 100%;
   width: 100px;
 }
 body .nav {
-  margin: 0 auto;
-  max-width: 700px !important;
-  width: 700px !important;
-  text-align: left;
-  margin-top: 20px;
-  font-size: 18px;
-  border-bottom: 1px solid #bd4281;
+  text-align: center;
+  margin-top: 30px;
+  border-bottom: 3px solid #1692cc;
+  font-size: 14px;
+  text-transform: uppercase;
 }
 body .nav ul {
   list-style: none;
   padding: 0;
 }
 body .nav ul li {
-  color: #bd4281;
+  color: #999;
   display: inline-block;
   margin: 0;
 }
@@ -219,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #bd4281;
+  color: #888;
 }
 body #disqus_thread {
   margin-top: 40px;

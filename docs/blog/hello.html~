@@ -6,7 +6,7 @@
 <!-- Mar 09, 2021 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>ctznfive.xyz</title>
+<title>Hello, world</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="ctznfive" />
 <link rel='icon' type='image/x-icon' href='/images/favicon.ico'/>
@@ -46,45 +46,23 @@
 </div><header id="top" class="status">
 <div class='nav'>
 <ul>
-    <li><a href='/'><b>HOME</b></a></li>
-<li><a href='/blog/'><b>BLOG</b></a></li>
-<li><a href='https://github.com/ctznfive'><b>GITHUB</b></a></li>
-<li><a href='https://twitter.com/ctznfive'><b>TWITTER</b></a></li>
-<li><a href='mailto:ctznfive@gmail.com'><b>MAIL</b></a></li>
-<li><a href='/pgp/'><b>PGP</b></a></li>
+<li><a href='/'>HOME</a></li>
+<li><a href='/blog/'>BLOG</a></li>
+<li><a href='https://github.com/ctznfive'>GITHUB</a></li>
+<li><a href='https://twitter.com/ctznfive'>TWITTER</a></li>
+<li><a href='mailto:ctznfive@gmail.com'>MAIL</a></li>
+<li><a href='/pgp/'>PGP</a></li>
 </ul>
 </div>
 
 
 <div class='intro'>
+  <p><i>Lisp Hacker. FLOSS Advocate. Unix Enthusiast.</i></p>
 </div>
 </header>
 <main id="content">
-<h1 class="title">ctznfive.xyz</h1>
-<p>
-I&rsquo;m just an ordinary person who&rsquo;s mostly interested in unix, lisp, cybersecurity, psychology, philosophy and art.
-</p>
+<h1 class="title">Hello, world</h1>
 
-<p>
-<b>PROJECTS</b> 
-</p>
-
-<ul class="org-ul">
-<li><a href="https://github.com/ctznfive/tdpad">TDPad</a> : Qt text editor with task manager functionality</li>
-<li><a href="https://github.com/ctznfive/vergeos">VergeOS</a> : Elements of barebones operation system written in NASM</li>
-<li><a href="https://github.com/ctznfive/nebulafm">NebulaFM</a> : Minimalistic console twin-pane file manager</li>
-<li><a href="https://github.com/ctznfive/galaxy-lispers">Galaxy Lispers</a> : Classic game written in Lisp</li>
-<li><a href="https://github.com/ctznfive/pomudo">Pomudo</a> : Timer for Pomodoro Technique written in Bash</li>
-<li><a href="https://github.com/ctznfive/sabbracadabra-theme">SabbraCadabra</a> : Shiny Emacs theme with nice colors</li>
-</ul>
-
-<p>
-<b>TOOLS I USE</b> : <a href="https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md">Emacs, Vim, Zsh, i3, Urxvt, etc</a>
-</p>
-
-<p>
-<b>CV</b> : Available on request
-</p>
 </main>
 <footer id="postamble" class="status">
 <div class='footer'>
