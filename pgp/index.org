@@ -1,5 +1,5 @@
 #+title: PGP Key
-#+filetags: pgp gnupg key
+#+filetags: pgp gnupg
 #+setupfile: ../org-templates/post.org
 
 

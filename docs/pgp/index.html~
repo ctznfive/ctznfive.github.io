@@ -46,23 +46,22 @@
 </div><header id="top" class="status">
 <div class='nav'>
 <ul>
-<li><a href='/'>HOME</a></li>
-<li><a href='/blog/'>BLOG</a></li>
-<li><a href='https://github.com/ctznfive'>GITHUB</a></li>
-<li><a href='https://twitter.com/ctznfive'>TWITTER</a></li>
-<li><a href='mailto:ctznfive@gmail.com'>MAIL</a></li>
-<li><a href='/pgp/'>PGP</a></li>
+    <li><a href='/'><b>HOME</b></a></li>
+<li><a href='/blog/'><b>BLOG</b></a></li>
+<li><a href='https://github.com/ctznfive'><b>GITHUB</b></a></li>
+<li><a href='https://twitter.com/ctznfive'><b>TWITTER</b></a></li>
+<li><a href='mailto:ctznfive@gmail.com'><b>MAIL</b></a></li>
+<li><a href='/pgp/'><b>PGP</b></a></li>
 </ul>
 </div>
 
 
 <div class='intro'>
-  <p><i>Lisp Hacker. FLOSS Advocate. Unix Enthusiast.</i></p>
 </div>
 </header>
 <main id="content">
 <h1 class="title">PGP Key</h1>
-<pre class="example" id="orgc6ae577">
+<pre class="example" id="org5dbedd8">
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
