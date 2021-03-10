@@ -2,7 +2,7 @@
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
-I'm just an ordinary person who's mostly interested in unix, lisp, cybersecurity, psychology, philosophy and art.
+I'm just an ordinary person who's mostly interested in computer science, unix, lisp, cybersecurity, psychology, philosophy and art.
 
 *PROJECTS* 
 
