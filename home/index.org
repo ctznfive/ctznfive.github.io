@@ -2,9 +2,7 @@
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
-I'm just an ordinary person who's mostly interested in computer science, psychology and art.
-
-In the computing area, I’m mostly focused on system programming, reverse engineering, cybersecurity, unix and lisp.
+I'm just an ordinary person who's mostly interested in computer science, psychology and art. In the computing area, I’m mostly focused on system programming, reverse engineering, cybersecurity, libre software, unix and lisp.
 
 *PROJECTS* 
 
