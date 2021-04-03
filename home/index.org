@@ -8,6 +8,7 @@ In the computing area I’m mostly focused on system programming, reverse engine
 *PROJECTS* 
 
 - [[https://github.com/ctznfive/tdpad][TDPad]] : Qt text editor with task manager functionality
+- [[https://github.com/ctznfive/muswebp][MusWebP]] : Simple web based music player
 - [[https://github.com/ctznfive/vergeos][VergeOS]] : Elements of barebones operating system written in NASM
 - [[https://github.com/ctznfive/nebulafm][NebulaFM]] : Minimalistic console twin-pane file manager
 - [[https://github.com/ctznfive/galaxy-lispers][Galaxy Lispers]] : Classic game written in Lisp
