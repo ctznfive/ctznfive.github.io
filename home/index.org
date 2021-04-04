@@ -5,7 +5,7 @@
 I'm just an ordinary person who's mostly interested in computer science, psychology and art.
 In the computing area I’m mostly focused on system programming, reverse engineering, cybersecurity, unix-like operating systems, libre software and lisp.
 
-*PROJECTS* 
+*PROJECTS*
 
 - [[https://github.com/ctznfive/tdpad][TDPad]] : Qt text editor with task manager functionality
 - [[https://github.com/ctznfive/muswebp][MusWebP]] : Simple web based music player
@@ -13,6 +13,7 @@ In the computing area I’m mostly focused on system programming, reverse engine
 - [[https://github.com/ctznfive/nebulafm][NebulaFM]] : Minimalistic console twin-pane file manager
 - [[https://github.com/ctznfive/galaxy-lispers][Galaxy Lispers]] : Classic game written in Lisp
 - [[https://github.com/ctznfive/pomudo][Pomudo]] : Timer for Pomodoro Technique written in Bash
+- [[https://github.com/ctznfive/processing-ani][Epsilon Carinae]] : Some experiments with Processing language
 - [[https://github.com/ctznfive/sabbracadabra-theme][SabbraCadabra]] : Shiny Emacs theme with nice colors
 
 *TOOLS I USE* : [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][Emacs, Vim, Zsh, i3, Urxvt, etc]]
