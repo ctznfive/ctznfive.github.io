@@ -3,16 +3,12 @@
 #+setupfile: ../org-templates/post.org
 
 I'm just an ordinary person who's mostly interested in computer science, psychology and art.
-In the computing area I’m mostly focused on system programming, reverse engineering, cybersecurity, unix-like operating systems, libre software and lisp.
 
-*PROJECTS*
+*PET PROJECTS*
 
-- [[https://github.com/ctznfive/tdpad][TDPad]] : Qt text editor with task manager functionality
-- [[https://github.com/ctznfive/muswebp][MusWebP]] : Simple web based music player
-- [[https://github.com/ctznfive/vergeos][VergeOS]] : Elements of barebones operating system written in NASM
+- [[https://github.com/ctznfive/kaizenity][Kaizenity]] : Personal scrum and kanban project management tool
 - [[https://github.com/ctznfive/nebulafm][NebulaFM]] : Minimalistic console twin-pane file manager
-- [[https://github.com/ctznfive/galaxy-lispers][Galaxy Lispers]] : Classic game written in Lisp
-- [[https://github.com/ctznfive/pomudo][Pomudo]] : Timer for Pomodoro Technique written in Bash
+- [[https://github.com/ctznfive/pomudo][Pomudo]] : Timer for Pomodoro Technique
 - [[https://github.com/ctznfive/processing-ani][Epsilon Carinae]] : Some experiments with Processing language
 - [[https://github.com/ctznfive/sabbracadabra-theme][SabbraCadabra]] : Shiny Emacs theme with nice colors
 
