@@ -1,4 +1,4 @@
-#+title: MOSTLY ABOUT BITS AND LAMBDAS
+#+title:  
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
