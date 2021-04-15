@@ -1,4 +1,4 @@
-#+title: mostly about bits and lambdas
+#+title: MOSTLY ABOUT BITS AND LAMBDAS
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
