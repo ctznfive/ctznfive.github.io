@@ -1,4 +1,4 @@
-#+title:  
+#+title: Home
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
