@@ -2,7 +2,6 @@
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
-*>* /Mostly about bits, lambdas and machines/
 
 *PET PROJECTS*
 
@@ -15,3 +14,5 @@
 *TOOLS I USE* : [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][Emacs, Vim, Zsh, i3, Urxvt, etc]]
 
 *CV* : [[mailto:ctznfive@gmail.com][Available on request]]
+
+*>* /Mostly about bits, lambdas and machines/
