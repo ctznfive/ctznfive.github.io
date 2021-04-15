@@ -2,7 +2,7 @@
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
-> Mostly about bits, lambdas and machines
+*>* */Mostly about bits, lambdas and machines/*
 
 *PET PROJECTS*
 
