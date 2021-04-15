@@ -1,5 +1,5 @@
 #+title: Mostly about bits and lambdas
-#+filetags: home index
+#+filetags: home
 #+setupfile: ../org-templates/post.org
 
 

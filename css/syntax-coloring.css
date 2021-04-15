@@ -3,9 +3,9 @@
  ***
  * Source: org-plus-contrib/ox-html.el
  ******************************/
-.title  { text-align: right;
+.title  { text-align: center;
            margin-bottom: .2em; }
-.subtitle { text-align: center;
+.subtitle { text-align: right;
             font-size: medium;
             font-weight: bold;
             margin-top:0; }
