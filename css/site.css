@@ -28,7 +28,7 @@ body h3 b,
 body h4 b {
   display: block;
   line-height: 1;
-  font-size: 140%;
+  font-size: 150%;
 }
 body h1 img,
 body h2 img,
@@ -38,7 +38,7 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 24px;
+  font-size: 22px;
 }
 body h2 {
   margin-top: 60px;
