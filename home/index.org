@@ -1,7 +1,9 @@
-#+title: > mostly about bits and lambdas
+#+title: Home
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
+
+> /Mostly about bits and lambdas/
 
 *PET PROJECTS*
 
