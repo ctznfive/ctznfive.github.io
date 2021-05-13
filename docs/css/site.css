@@ -38,7 +38,7 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 37px;
+  font-size: 39px;
 }
 body h2 {
   margin-top: 50px;
@@ -73,7 +73,7 @@ body pre.src {
 body code {
   background: #eee;
   border: 1px solid #ccc;
-  padding: 0px 4px;
+  padding: 4px 4px;
   color: #666;
   overflow-x: auto;
   font-size: .9em;
@@ -190,7 +190,7 @@ body .intro img {
 body .nav {
   text-align: center;
   margin-top: 30px;
-  font-size: 17px;
+  font-size: 18px;
   text-transform: uppercase;
 }
 body .nav ul {
