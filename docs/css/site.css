@@ -5,7 +5,7 @@ body {
   background: #111112;
   color: #ccc;
   margin: 0;
-  border-top: 8px solid #4d74ab;
+  border-top: 0px solid #4d74ab;
 }
 @media (max-width: 949px) {
   body {
@@ -38,7 +38,6 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  box-shadow: 2px 2px 2px #4d74ab;
   font-size: 39px;
 }
 body h2 {
