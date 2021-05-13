@@ -3,7 +3,7 @@ body {
   line-height: 1.4;
   font-size: 18px;
   background: #111112;
-  color: #eee;
+  color: #ccc;
   margin: 0;
   border-top: 6px solid #c43f76;
 }
@@ -55,8 +55,8 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #eee;
-  font-weight: bold;
+  color: #ccc;
+  font-weight: underline;
 }
 body a:hover {
   color: #73bde0;
@@ -190,7 +190,7 @@ body .intro img {
 body .nav {
   text-align: center;
   margin-top: 30px;
-  font-size: 18px;
+  font-size: 20px;
   text-transform: uppercase;
 }
 body .nav ul {
