@@ -2,12 +2,12 @@ body {
   font-family: 'Geneva', Helvetica, sans-serif;
   line-height: 1.4;
   font-size: 18px;
-  background: #fff;
-  color: #000;
+  background: #1a1a1b;
+  color: #bbb;
   margin: 0;
-  border-top: 4px solid #666666;
+  border-top: 4px solid #bbb;
 }
-@media (max-width: 999px) {
+@media (max-width: 899px) {
   body {
     padding: 15px;
     font-size: .95em;
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #333333;
+  color: #eee;
 }
 body h1 b,
 body h2 b,
@@ -42,7 +42,7 @@ body h1 {
 }
 body h2 {
   margin-top: 50px;
-  position: center;
+  position: relative;
   font-size: 22px;
 }
 body h3 {
@@ -85,7 +85,7 @@ body img {
   border: 1px solid #ccc;
   height: auto;
 }
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   body img {
     max-width: 100%;
   }
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #666666;
+  background: #bbb;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -125,7 +125,7 @@ body .pubdate p {
   display: inline;
   margin-right: 10px;
 }
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   body .pubdate {
     margin-top: 0;
     text-align: left;
@@ -137,12 +137,12 @@ body .nav-blog {
 body .org-info-js_info-navigation {
   background: #bbb;
 }
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
   body #content,
   body #postamble {
     margin: 0 auto;
-    max-width: 900px !important;
-    width: 900px !important;
+    max-width: 800px !important;
+    width: 800px !important;
   }
 }
 body #content {
@@ -157,11 +157,11 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #666666;
+  color: #bbb;
 }
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
   body #preamble {
-    width: 900px;
+    width: 800px;
     margin: 0px auto;
     position: relative;
   }
@@ -198,7 +198,7 @@ body .nav ul {
   padding: 0;
 }
 body .nav ul li {
-  color: #999;
+  color: #eee;
   display: inline-block;
   margin: 0;
 }
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #666666;
+  color: #bbb;
 }
 body #disqus_thread {
   margin-top: 40px;
@@ -215,7 +215,7 @@ body #disqus_thread {
 body .clearfix {
   clear: both;
 }
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
   body .contact {
     -moz-column-count: 2;
     -webkit-column-count: 2;
