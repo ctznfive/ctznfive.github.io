@@ -1,5 +1,5 @@
 body {
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  font-family: "Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   line-height: 1.4;
   font-size: 18px;
   background: #111112;
@@ -38,7 +38,7 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 30px;
+  font-size: 32px;
 }
 body h2 {
   margin-top: 60px;
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #c43f76;
+  color: #eee;
   font-weight: bold;
 }
 body a:hover {
