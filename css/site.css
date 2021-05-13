@@ -43,7 +43,7 @@ body h1 {
 body h2 {
   margin-top: 50px;
   position: relative;
-  font-size: 19px;
+  font-size: 20px;
 }
 body h3 {
   font-size: 18px;
@@ -56,6 +56,7 @@ body p {
 body a {
   text-decoration: none;
   color: #cf6591;
+  font-weight: bold;
 }
 body a:hover {
   color: #73bde0;
