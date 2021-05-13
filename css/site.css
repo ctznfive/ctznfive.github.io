@@ -38,6 +38,8 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
+  background-color: #222;
+  height: 100%;
   font-size: 39px;
 }
 body h2 {
@@ -188,8 +190,6 @@ body .intro img {
   width: 100px;
 }
 body .nav {
-  background-color: blue;
-  height: 100%;
   text-align: center;
   margin-top: 30px;
   font-size: 19px;
