@@ -3,7 +3,7 @@
  ***
  * Source: org-plus-contrib/ox-html.el
  ******************************/
-.title  { text-align: center;
+.title  { text-align: left;
            margin-bottom: .2em; }
 .subtitle { text-align: center;
             font-size: medium;
