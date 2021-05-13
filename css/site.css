@@ -3,9 +3,9 @@ body {
   line-height: 1.2;
   font-size: 18px;
   background: #fff;
-  color: #111;
+  color: #222;
   margin: 0;
-  border-top: 7px solid #1692cc;
+  border-top: 8px solid #000;
 }
 @media (max-width: 799px) {
   body {
