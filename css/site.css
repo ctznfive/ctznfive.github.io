@@ -215,7 +215,7 @@ body #disqus_thread {
 body .clearfix {
   clear: both;
 }
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
   body .contact {
     -moz-column-count: 2;
     -webkit-column-count: 2;
