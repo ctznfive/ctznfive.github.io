@@ -11,6 +11,8 @@
 - [[https://github.com/ctznfive/processing-ani][Epsilon Carinae]]  Some experiments with Processing
 - [[https://github.com/ctznfive/sabbracadabra-theme][SabbraCadabra]]  Shiny Emacs theme with nice colors
 
-** *TOOLS I USE*  [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][Emacs, Vim, Zsh, i3, Urxvt, etc]]
+** *TOOLS I USE*
+[[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][Emacs, Vim, Zsh, i3, Urxvt, etc]]
 
-** *CV*  [[mailto:ctznfive@gmail.com][Available on request]]
+** *CV*
+[[mailto:ctznfive@gmail.com][Available on request]]
