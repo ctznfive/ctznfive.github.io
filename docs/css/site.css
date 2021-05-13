@@ -2,10 +2,10 @@ body {
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   line-height: 1.4;
   font-size: 18px;
-  background: #1a1a1b;
-  color: #eee;
+  background: #fff;
+  color: #000;
   margin: 0;
-  border-top: 8px solid #c43f76;
+  border-top: 0px solid #000000;
 }
 @media (max-width: 799px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #c43f76;
+  color: #000000;
 }
 body h1 b,
 body h2 b,
@@ -38,15 +38,15 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 38px;
+  font-size: 32px;
 }
 body h2 {
   margin-top: 60px;
   position: relative;
-  font-size: 24px;
+  font-size: 22px;
 }
 body h3 {
-  font-size: 22px;
+  font-size: 20px;
   margin-top: 40px;
   font-weight: bold;
 }
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #c43f76;
+  color: #000000;
   font-weight: bold;
 }
 body a:hover {
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #c43f76;
+  background: #000000;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -157,7 +157,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #c43f76;
+  color: #000000;
 }
 @media (min-width: 800px) {
   body #preamble {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #c43f76;
+  color: #000000;
 }
 body #disqus_thread {
   margin-top: 40px;
