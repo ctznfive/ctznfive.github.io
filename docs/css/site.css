@@ -1,5 +1,5 @@
 body {
-  font-family: "Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  font-family: 'Oswald', "Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   line-height: 1.4;
   font-size: 18px;
   background: #111112;
@@ -190,9 +190,8 @@ body .intro img {
 body .nav {
   text-align: center;
   margin-top: 30px;
-  font-size: 18px;
+  font-size: 16px;
   text-transform: uppercase;
-  font-weight: bold;
 }
 body .nav ul {
   list-style: none;
