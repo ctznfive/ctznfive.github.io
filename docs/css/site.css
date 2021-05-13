@@ -5,6 +5,7 @@ body {
   background: #111112;
   color: #ccc;
   margin: 0;
+  border-top: 8px solid #4d74ab;
 }
 @media (max-width: 949px) {
   body {
@@ -187,7 +188,6 @@ body .intro img {
   width: 100px;
 }
 body .nav {
-  border-bottom: 8px solid #4d74ab;
   text-align: center;
   margin-top: 30px;
   font-size: 19px;
