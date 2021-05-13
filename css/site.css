@@ -188,6 +188,8 @@ body .intro img {
   width: 100px;
 }
 body .nav {
+  background-color: blue;
+  height: 100%;
   text-align: center;
   margin-top: 30px;
   font-size: 19px;
