@@ -17,7 +17,6 @@ body h1,
 body h2,
 body h3,
 body h4 {
-  box-shadow: 10px 5px 5px #4d74ab;
   font-weight: normal;
   margin: 0;
   padding: 0;
@@ -39,6 +38,7 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
+  box-shadow: 2px 2px 2px #4d74ab;
   font-size: 39px;
 }
 body h2 {
