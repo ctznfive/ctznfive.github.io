@@ -54,9 +54,9 @@ body p {
   text-align: justify;
 }
 body a {
-  text-decoration: none;
   color: #cf6591;
   font-weight: bold;
+  text-decoration: underline;
 }
 body a:hover {
   color: #73bde0;
@@ -192,6 +192,7 @@ body .nav {
   margin-top: 30px;
   font-size: 18px;
   text-transform: uppercase;
+  font-weight: bold;
 }
 body .nav ul {
   list-style: none;
