@@ -5,7 +5,7 @@ body {
   background: #111112;
   color: #ccc;
   margin: 0;
-  border-top: 4px solid #b8b8b8;
+  border-top: 4px solid #c43f76;
 }
 @media (max-width: 949px) {
   body {
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #b8b8b8;
+  background: #c43f76;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -157,7 +157,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #b8b8b8;
+  color: #c43f76;
 }
 @media (min-width: 950px) {
   body #preamble {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #b8b8b8;
+  color: #c43f76;
 }
 body #disqus_thread {
   margin-top: 40px;
