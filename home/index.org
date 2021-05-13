@@ -1,11 +1,11 @@
-#+title: Mostly about bits, lambdas and machines
+#+title: Mostly about Bits, Lambdas and Machines
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
 
 *PET PROJECTS*
 
-- [[https://github.com/ctznfive/kaizenity][Kaizenity]] : Scrum and kanban project management tool
+- [[https://github.com/ctznfive/myrecall][MyRecall]] : Tool for effective studying using active recall
 - [[https://github.com/ctznfive/nebulafm][NebulaFM]] : Minimalistic console twin-pane file manager
 - [[https://github.com/ctznfive/pomudo][Pomudo]] : Simple timer for Pomodoro Technique
 - [[https://github.com/ctznfive/processing-ani][Epsilon Carinae]] : Some experiments with Processing
