@@ -17,6 +17,8 @@ body h1,
 body h2,
 body h3,
 body h4 {
+  background-color: #222;
+  height: 100%;
   font-weight: normal;
   margin: 0;
   padding: 0;
@@ -38,8 +40,6 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  background-color: #222;
-  height: 100%;
   font-size: 39px;
 }
 body h2 {
