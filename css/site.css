@@ -5,7 +5,7 @@ body {
   background: #111112;
   color: #ccc;
   margin: 0;
-  border-top: 8px solid #D23D15;
+  border-top: 8px solid #4d8bb0;
 }
 @media (max-width: 949px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #D23D15;
+  color: #4d8bb0;
 }
 body h1 b,
 body h2 b,
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #EADCD1;
+  color: #97989d;
   font-weight: bold;
 }
 body a:hover {
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #D23D15;
+  background: #4d8bb0;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -157,7 +157,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #D23D15;
+  color: #4d8bb0;
 }
 @media (min-width: 950px) {
   body #preamble {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #D23D15;
+  color: #4d8bb0;
 }
 body #disqus_thread {
   margin-top: 40px;
