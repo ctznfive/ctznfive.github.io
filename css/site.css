@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #aaa;
+  color: #4974a5;
   font-weight: bold;
 }
 body a:hover {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #4974a5;
+  color: #c13f68;
 }
 body #disqus_thread {
   margin-top: 40px;
