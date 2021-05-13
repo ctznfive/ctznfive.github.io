@@ -1,4 +1,4 @@
-#+title: M0STLY ABOUT BITS, LAMBDAS AND MACHINES
+#+title: MOSTLY ABOUT BITS, LAMBDAS AND MACHINES
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
