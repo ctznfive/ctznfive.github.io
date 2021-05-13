@@ -5,7 +5,7 @@ body {
   background: #111112;
   color: #ccc;
   margin: 0;
-  border-top: 8px solid #97989d;
+  border-top: 8px solid #4d8bb0;
 }
 @media (max-width: 949px) {
   body {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #97989d;
+  color: #4d8bb0;
 }
 body #disqus_thread {
   margin-top: 40px;
