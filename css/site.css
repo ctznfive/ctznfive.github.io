@@ -2,10 +2,10 @@ body {
   font-family: 'Fira Sans', Helvetica, sans-serif;
   line-height: 1.4;
   font-size: 18px;
-  background: #111112;
-  color: #ccc;
+  background: #fff;
+  color: #000;
   margin: 0;
-  border-top: 5px solid #c43f76;
+  border-top: 0px solid #222222;
 }
 @media (max-width: 799px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #c43f76;
+  color: #222222;
 }
 body h1 b,
 body h2 b,
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #c43f76;
+  background: #222222;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -157,7 +157,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #c43f76;
+  color: #222222;
 }
 @media (min-width: 800px) {
   body #preamble {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #c43f76;
+  color: #222222;
 }
 body #disqus_thread {
   margin-top: 40px;
