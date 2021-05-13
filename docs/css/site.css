@@ -3,9 +3,9 @@ body {
   line-height: 1.4;
   font-size: 18px;
   background: #0a0a0b;
-  color: #ccc;
+  color: #eee;
   margin: 0;
-  border-top: 4px solid #ccc;
+  border-top: 4px solid #aaa;
 }
 @media (max-width: 949px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #ddd;
+  color: #aaa;
 }
 body h1 b,
 body h2 b,
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #888;
+  color: #eee;
   font-weight: bold;
 }
 body a:hover {
@@ -74,7 +74,7 @@ body code {
   background: #ddd;
   border: 1px solid #ccc;
   padding: 0px 4px;
-  color: #666;
+  color: #eee;
   overflow-x: auto;
   font-size: .9em;
 }
