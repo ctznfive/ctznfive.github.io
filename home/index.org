@@ -1,4 +1,4 @@
-#+title: Mostly about Bits, Lambdas and Machines
+#+title: M 0 S T L Y  A B O U T  B I T S ,  L A M B D A S  A N D  M A C H I N E S
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
