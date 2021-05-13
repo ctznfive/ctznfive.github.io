@@ -1,11 +1,11 @@
 body {
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   line-height: 1.4;
-  font-size: 20px;
-  background: #fff;
-  color: #250001;
+  font-size: 18px;
+  background: #1a1a1b;
+  color: #eee;
   margin: 0;
-  border-top: 8px solid #888;
+  border-top: 8px solid #c43f76;
 }
 @media (max-width: 799px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #000000;
+  color: #c43f76;
 }
 body h1 b,
 body h2 b,
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #000000;
+  color: #c43f76;
 }
 body a:hover {
   color: #73bde0;
@@ -107,7 +107,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #000000;
+  background: #c43f76;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -156,7 +156,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #000000;
+  color: #c43f76;
 }
 @media (min-width: 800px) {
   body #preamble {
@@ -206,7 +206,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #000000;
+  color: #c43f76;
 }
 body #disqus_thread {
   margin-top: 40px;
