@@ -5,7 +5,7 @@ body {
   background: #fff;
   color: #000;
   margin: 0;
-  border-top: 0px solid #444444;
+  border-top: 0px solid #666666;
 }
 @media (max-width: 799px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #444444;
+  color: #666666;
 }
 body h1 b,
 body h2 b,
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #ccc;
+  color: #888;
   font-weight: bold;
 }
 body a:hover {
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #444444;
+  background: #666666;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -157,7 +157,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #444444;
+  color: #666666;
 }
 @media (min-width: 800px) {
   body #preamble {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #444444;
+  color: #666666;
 }
 body #disqus_thread {
   margin-top: 40px;
