@@ -2,10 +2,10 @@ body {
   font-family: 'Fira Sans', Helvetica, sans-serif;
   line-height: 1.4;
   font-size: 20px;
-  background: #262c38;
+  background: #1a1a1b;
   color: #ccc;
   margin: 0;
-  border-top: 0px solid #D6A2A3;
+  border-top: 0px solid #E4E4F4;
 }
 @media (max-width: 949px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #f25268;
+  color: #8D99AE;
 }
 body h1 b,
 body h2 b,
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #D6A2A3;
+  color: #E4E4F4;
   font-weight: bold;
 }
 body a:hover {
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #f25268;
+  background: #8D99AE;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
@@ -157,7 +157,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #D6A2A3;
+  color: #E4E4F4;
 }
 @media (min-width: 950px) {
   body #preamble {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #D6A2A3;
+  color: #E4E4F4;
 }
 body #disqus_thread {
   margin-top: 40px;
