@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica, Verdana, sans-serif;
+  font-family: Helvetica Neue, Verdana, sans-serif;
   line-height: 1.4;
   font-size: 18px;
   background: #111112;
@@ -151,7 +151,7 @@ body #content {
 body #postamble {
   font-size: 0.8em;
   line-height: 1.8em;
-  margin-top: 30px;
+  margin-top: 40px;
   text-align: center;
   color: #aaa;
   padding: 15px 0;
