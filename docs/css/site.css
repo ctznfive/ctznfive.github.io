@@ -5,7 +5,7 @@ body {
   background: #fff;
   color: #000;
   margin: 0;
-  border-top: 0px solid #666666;
+  border-top: 4px solid #666666;
 }
 @media (max-width: 999px) {
   body {
@@ -38,15 +38,15 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 34px;
+  font-size: 36px;
 }
 body h2 {
   margin-top: 50px;
   position: relative;
-  font-size: 20px;
+  font-size: 22px;
 }
 body h3 {
-  font-size: 18px;
+  font-size: 20px;
   margin-top: 40px;
   font-weight: bold;
 }
