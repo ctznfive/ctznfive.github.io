@@ -1,5 +1,5 @@
 body {
-  font-family: "Helvetica Neue", Verdana, sans-serif;
+  font-family: Helvetica, Verdana, sans-serif;
   line-height: 1.4;
   font-size: 18px;
   background: #111112;
@@ -56,7 +56,7 @@ body p {
 body a {
   text-decoration: none;
   color: #cf6591;
-  font-weight: bold;
+  font-weight: light;
 }
 body a:hover {
   color: #73bde0;
