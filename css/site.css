@@ -3,7 +3,7 @@ body {
   line-height: 1.2;
   font-size: 18px;
   background: #fff;
-  color: #333;
+  color: #555;
   margin: 0;
   border-top: 8px solid #888;
 }
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #1692cc;
+  color: #000;
 }
 body h1 b,
 body h2 b,
@@ -38,7 +38,7 @@ body h4 img {
   border: 0 none;
 }
 body h1 {
-  font-size: 22px;
+  font-size: 24px;
 }
 body h2 {
   margin-top: 60px;
