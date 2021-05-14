@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #c92467;
+  color: #ba4172;
 }
 body h1 b,
 body h2 b,
@@ -108,7 +108,7 @@ body .tag {
   font-size: 0.6em;
 }
 body .tag span {
-  background: #c92467;
+  background: #ba4172;
   color: white;
   padding: 2px 5px;
   border-radius: 4px;
