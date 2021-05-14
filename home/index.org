@@ -5,6 +5,8 @@
 
 ** *PET PROJECTS*  [[https://github.com/ctznfive/recallista][Recallista .]]  [[https://github.com/ctznfive/nebulafm][NebulaFM .]]  [[https://github.com/ctznfive/pomudo][Pomudo .]]  [[https://github.com/ctznfive/processing-ani][EpsilonCarinae .]]  [[https://github.com/ctznfive/sabbracadabra-theme][SabbraCadabra]]
 
-** *TOOLS I USE*  [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][UN*X . Emacs . Vim . Zsh . i3 . Urxvt . etc]]
+** *COURSES* [[https://github.com/ctznfive/sicp][SICP .]] [[https://github.com/ctznfive/sedgewick-algo][Algorithms .]] [[https://github.com/ctznfive/sedgewick-cs][CS Intro]]
+
+** *TOOLS I USE*  [[https://github.com/ctznfive/ctznfive-emacs][Emacs .]] [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][UN*X . Vim . Zsh . i3 . Urxvt . etc]]
 
 ** *CV*  [[mailto:ctznfive@gmail.com][Available on request]]
