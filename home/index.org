@@ -5,6 +5,6 @@
 
 ** *PET PROJECTS*  [[https://github.com/ctznfive/recallista][Recallista .]]  [[https://github.com/ctznfive/nebulafm][NebulaFM .]]  [[https://github.com/ctznfive/pomudo][Pomudo .]]  [[https://github.com/ctznfive/processing-ani][EpsilonCarinae .]]  [[https://github.com/ctznfive/sabbracadabra-theme][SabbraCadabra]]
 
-** *ASSIGNMENTS* [[https://github.com/ctznfive/sicp][SICP .]] [[https://github.com/ctznfive/sedgewick-algo][Algorithms .]] [[https://github.com/ctznfive/ml-coursera-python-assignments][Machine Learning .]] [[https://github.com/ctznfive/sedgewick-cs][CS Intro]]
+** *ASSIGNMENTS* [[https://github.com/ctznfive/sicp][SICP .]] [[https://github.com/ctznfive/sedgewick-algo][Algorithms .]] [[https://github.com/ctznfive/ml-coursera-python-assignments][ML Intro .]] [[https://github.com/ctznfive/sedgewick-cs][CS Intro]]
 
 ** *DOTFILES*  [[https://github.com/ctznfive/ctznfive-emacs][Emacs .]] [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][UN*X . Vim . Zsh . i3 . Urxvt . etc]]
