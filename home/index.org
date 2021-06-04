@@ -7,4 +7,4 @@
 
 ** *ASSIGNMENTS* [[https://github.com/ctznfive/sicp][SICP .]] [[https://github.com/ctznfive/sedgewick-algo][Algorithms .]] [[https://github.com/ctznfive/ml-coursera-python-assignments][ML Intro .]] [[https://github.com/ctznfive/sedgewick-cs][CS Intro]]
 
-** *DOTFILES*  [[https://github.com/ctznfive/ctznfive-emacs][Emacs .]] [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][UN*X . Vim . Zsh . i3 . Urxvt . etc]]
+** *DOTFILES*  [[https://github.com/ctznfive/ctznfive-emacs][Emacs .]] [[https://github.com/ctznfive/ctznfive-dotfiles/blob/main/README.md][UN*X . Vim . Zsh . i3 . Urxvt ...]]
