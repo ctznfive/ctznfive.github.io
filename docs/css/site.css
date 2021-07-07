@@ -2,10 +2,10 @@ body {
   font-family: 'Fira Sans', Helvetica, sans-serif;
   line-height: 1.4;
   font-size: 20px;
-  background: #0d0d0e;
+  background: #000;
   color: #ccc;
   margin: 0;
-  border-top: 0px solid #8fa2b8;
+  border-top: 0px solid #c41f80;
 }
 @media (max-width: 949px) {
   body {
@@ -20,7 +20,7 @@ body h4 {
   font-weight: normal;
   margin: 0;
   padding: 0;
-  color: #ad6180;
+  color: #d35b89;
 }
 body h1 b,
 body h2 b,
@@ -28,7 +28,7 @@ body h3 b,
 body h4 b {
   display: block;
   line-height: 1;
-  font-size: 150%;
+  font-size: 140%;
 }
 body h1 img,
 body h2 img,
@@ -55,7 +55,7 @@ body p {
 }
 body a {
   text-decoration: none;
-  color: #8fa2b8;
+  color: #b4c9ea;
   font-weight: bold;
 }
 body a:hover {
@@ -149,7 +149,7 @@ body #content {
   margin-top: 10px;
 }
 body #postamble {
-  font-size: 0.8em;
+  font-size: 0.7em;
   line-height: 1.8em;
   margin-top: 40px;
   text-align: center;
@@ -157,7 +157,7 @@ body #postamble {
   padding: 15px 0;
 }
 body #postamble a {
-  color: #8fa2b8;
+  color: #b4c9ea;
 }
 @media (min-width: 950px) {
   body #preamble {
@@ -207,7 +207,7 @@ body .nav ul li a {
   padding-right: 6px;
   border-radius: 0;
   font-weight: normal;
-  color: #8fa2b8;
+  color: #b4c9ea;
 }
 body #disqus_thread {
   margin-top: 40px;
