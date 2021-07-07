@@ -1,4 +1,4 @@
-#+title: ᗩᗷ〇ᑌƬ ᗷᓰƬ⟆, しᗩⲘᗷↁᗩ⟆ ᗩƝᗪ ⲘᗩᙅᕼᓮƝᕮ⟆
+#+title: ᗩᗷ〇ᑌƬ ᗷᓰƬ⟆, LλⲘᗷↁᗩ⟆ ᗩƝᗪ ⲘᗩᙅᕼᓮƝᕮ⟆
 #+filetags: home
 #+setupfile: ../org-templates/post.org
 
