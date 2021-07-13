@@ -1,3 +1,0 @@
-#+title: Hello, world
-#+setupfile: ../org-templates/post.org
-

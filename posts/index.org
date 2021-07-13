@@ -1,4 +1,0 @@
-#+TITLE: Blog Index
-
-- *[[file:hello.org][Hello, world]]*
-  #+html: <p class='pubdate'>by ctznfive on Mar 09, 2021.</p>

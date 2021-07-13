@@ -1,3 +1,0 @@
-#+AUTHOR: ctznfive
-#+OPTIONS: toc:nil
-#+HTML_DOCTYPE: xhtml-strict
