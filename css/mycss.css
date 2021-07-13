@@ -13,6 +13,7 @@ body {
 }
 
 body {
+    line-height: 1.5;
     background-color: #0b0b0e;
     color: #ddd;
 }
@@ -33,7 +34,7 @@ p {
 .main {
     font-family: 'PT Mono', sans-serif;
     font-size: 18px;
-    padding: 60px;
+    padding: 50px;
     animation: blink 2s linear 1;
     font-weight: bold;
     background-color: rgba(5, 0, 0, 0.4);
@@ -47,16 +48,16 @@ h1, h2 {
 }
 
 h1 {
-    margin-top: 5px;
+    margin-top: 0px;
     margin-bottom: 20px;
     text-align: center;
 }
 
 h2 {
     font-size: 40px;
-    padding-top: 25px;
-    margin-top: 25px;
-    margin-bottom: 10px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
 
 li {
