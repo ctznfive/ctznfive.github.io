@@ -15,7 +15,7 @@ body {
 body {
     line-height: 1.5;
     background-color: #111;
-    color: #ddd;
+    color: #bbb;
 }
 
 body,h1,h2,ul,li {
@@ -72,7 +72,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: #ddd;
+    color: #bbb;
 }
 
 .icn {
@@ -91,7 +91,7 @@ a {
   right: 0;
   width: 0;
   height: 0.5px;
-  background-color: #ddd;
+  background-color: #bbb;
   transition: width 0.8s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
