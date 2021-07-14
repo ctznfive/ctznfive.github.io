@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href='https://fonts.googleapis.com/css?family=Roboto:100|PT+Mono' rel='stylesheet' type='text/css'>
     <link href="css/mycss.css" rel="stylesheet">
+    <script src="js/feather.js"></script>
   </head>
   <body>
     <div class="bg"></div>
     <div class="bg bg2"></div>
-	<div class="main">
+	<div class="main" data-tilt data-tilt-max="2" data-tilt-reverse="true" data-tilt-reset="false">
         <p>Technology is the campfire around which we tell our stories</p>
 		<h1>Abθut bits, lλmbdas and machinξs</h1>
 		<h2>Projects</h2>
@@ -28,16 +29,21 @@
 		  <li><a href="https://github.com/ctznfive/ml-coursera-python-assignments" class="underline">ML.Intro</a>
 		  <li><a href="https://github.com/ctznfive/sicp" class="underline">SICP</a>
 		</ul>
-		<h2>Links</h2>
+		<h2>Dotfiles</h2>
 		<ul>
-		  <li><a href="https://github.com/ctznfive" class="underline">Github</a>
-		  <li><a href="https://twitter.com/ctznfive" class="underline">Twitter</a>
-		  <li><a href="mailto:ctznfive@gmail.com" class="underline">Mail</a>
-		  <li><a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x1FB52146E92E4F22" class="underline">PGP</a>
-          <li>|</li>
-		  <li><a href="https://github.com/ctznfive/ctznfive-emacs" class="underline">dotfiles/Emacs</a>
-		  <li><a href="https://github.com/ctznfive/ctznfive-dotfiles" class="underline">dotfiles/UN*X</a>
+		  <li><a href="https://github.com/ctznfive/ctznfive-dotfiles" class="underline">UN*X.Tools</a>
+		  <li><a href="https://github.com/ctznfive/ctznfive-emacs" class="underline">GNU/Emacs</a>
 		</ul>
+        <div class="icn">
+            <a href="https://github.com/ctznfive"><i data-feather="github">Github</i></a>
+            <a href="https://twitter.com/ctznfive"><i data-feather="twitter">Twitter</i></a>
+            <a href="mailto:ctznfive@gmail.com"><i data-feather="mail">Mail</i></a>
+            <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x1FB52146E92E4F22"><i data-feather="key">PGP</i></a>
+        </div>
 	</div>
+    <script>
+      feather.replace()
+    </script>
+    <script type="text/javascript" src="js/vanilla-tilt.js"></script>
   </body>
 </html>
