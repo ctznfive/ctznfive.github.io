@@ -34,7 +34,7 @@ p {
 .main {
     font-family: 'PT Mono', sans-serif;
     font-size: 18px;
-    padding: 60px;
+    padding: 50px;
     animation: blink 2s linear 1;
     font-weight: bold;
     background-color: #111;
@@ -51,6 +51,7 @@ h1 {
     margin-top: 0px;
     margin-bottom: 20px;
     text-align: center;
+    color: #0087ca;
 }
 
 h2 {
@@ -80,31 +81,31 @@ a {
     text-align: right;
 }
 
-.underline{
-  position: relative;
-}
-
-.underline::before{
-  content: '';
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  width: 0;
-  height: 0.5px;
-  background-color: #ddd;
-  transition: width 0.8s cubic-bezier(0.25, 1, 0.5, 1);
-}
-
-@media (hover: hover) and (pointer: fine) {
-  .underline:hover::before{
-    left: 0;
-    right: auto;
-    width: 100%;
-  }
-}
-
 @keyframes blink{
     0%{opacity: 0;}
     50%{opacity: 0.5;}
     100%{opacity: 1;}
+}
+
+.underline-ani {
+  display: inline-block;
+  position: relative;
+}
+
+.underline-ani:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: #0087ca;
+  transform-origin: bottom right;
+  transition: transform 0.5s ease-out;
+}
+
+.underline-ani:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
