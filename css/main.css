@@ -51,7 +51,7 @@ h1 {
 }
 
 h2 {
-  font-weight: normal;
+  font-weight: bold;
   margin: 0.5em 0;
   width: 100%;
 }
@@ -90,6 +90,10 @@ footer {
 
 p {
   margin: 0.5em 0 0 0;
+}
+
+li {
+  list-style-type: circle;
 }
 
 .code {
@@ -156,4 +160,39 @@ p {
 .underline-ani:hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
+}
+
+.about {
+  font-family: 'Verdana', georgia, serif;
+  font-size: 1.3em;
+  color: #ddd;
+  margin: auto;
+  max-width: 800px;
+  padding-bottom: 1em;
+  text-align: left;
+}
+
+@media (max-width: 800px) {
+  .about {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 450px) {
+  .about {
+    max-width: 80%;
+  }
+}
+
+.about > h1 {
+  font-size: 2em;
+}
+
+.about > h2 {
+  font-size: 1.25em;
+  margin-top: 1em;
+}
+
+.about a:link {
+    color: pink;
 }
