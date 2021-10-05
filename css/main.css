@@ -108,7 +108,7 @@ li {
 
 .inline-navigation-list li {
   display: inline-block;
-  margin: 0 1em;
+  margin: 0 0.3em;
 }
 
 @media (max-width: 450px) {
