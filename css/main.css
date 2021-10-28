@@ -161,12 +161,12 @@ li {
 }
 
 .about {
-  font-family: 'Verdana', georgia, serif;
-  font-size: 1.2em;
-  color: #ddd;
+  font-family: Verdana, serif;
+  font-size: 1.1em;
+  color: #ccc;
   margin: auto;
   max-width: 800px;
-  padding-bottom: 1em;
+  padding-bottom: 0.8em;
   text-align: left;
 }
 
@@ -192,5 +192,5 @@ li {
 }
 
 .about a:link {
-    color: pink;
+  color: pink;
 }
