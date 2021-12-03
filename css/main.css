@@ -6,7 +6,7 @@ html {
   background-color: #111;
   color: #bbb;
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 15px;
   height: 100%;
   line-height: 1.6;
   text-align: center;
@@ -108,7 +108,7 @@ li {
 
 .inline-navigation-list li {
   display: inline-block;
-  margin: 0 1em;
+  margin: 0 0.8em;
 }
 
 @media (max-width: 450px) {
@@ -147,12 +147,12 @@ li {
   position: absolute;
   width: 100%;
   transform: scaleX(0);
-  height: 2px;
+  height: 3px;
   bottom: 0;
   left: 0;
   background-color: #bbb;
   transform-origin: bottom right;
-  transition: transform 0.5s ease-out;
+  transition: transform 0.2s ease-out;
 }
 
 .underline-ani:hover:after {
@@ -162,7 +162,7 @@ li {
 
 .about {
   font-family: Verdana, serif;
-  font-size: 1.1em;
+  font-size: 1.2em;
   color: #ccc;
   margin: auto;
   max-width: 800px;
@@ -192,5 +192,4 @@ li {
 }
 
 .about a:link {
-  color: pink;
 }
