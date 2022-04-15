@@ -95,7 +95,7 @@ li {
 }
 
 .code {
-  font-family: "PT Mono", monospace;
+  font-family: 'PT Mono', monospace;
   font-weight: 500;
   margin: 0 0.35em;
 }
@@ -161,9 +161,10 @@ li {
 }
 
 .about {
-  font-family: Verdana, serif;
-  font-size: 1.2em;
-  color: #ccc;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #bbb;
   margin: auto;
   max-width: 800px;
   padding-bottom: 0.8em;
