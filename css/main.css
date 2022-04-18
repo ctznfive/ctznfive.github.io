@@ -162,9 +162,9 @@ li {
 
 .about {
   font-family: monospace;
-  font-weight: bold;
+  font-weight: medium;
   font-size: 1.1em;
-  color: #bbb;
+  color: #ccc;
   margin: auto;
   max-width: 800px;
   padding-bottom: 0.8em;
