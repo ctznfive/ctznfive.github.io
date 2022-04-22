@@ -3,7 +3,9 @@
 }
 
 html {
-  background-image: -webkit-linear-gradient(-45deg, #111 50%, #222 50%);
+  background-color: #222;
+  background-image: -webkit-linear-gradient(-45deg, #111 49.9%, #222 50.1%);
+  background-repeat: no-repeat;
   color: #bbb;
   box-sizing: border-box;
   font-size: 15px;
@@ -20,6 +22,9 @@ html {
 
 body {
   height: 100%;
+  opacity: 0;
+  transition: opacity 2s;
+  -webkit-transition: opacity 2s; /* Safari */
 }
 
 a {
@@ -165,7 +170,6 @@ li {
   font-weight: medium;
   font-size: 1.1em;
   text-justify: auto;
-  color: #ccc;
   margin: auto;
   max-width: 800px;
   padding-bottom: 0.8em;
