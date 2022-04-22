@@ -164,11 +164,18 @@ li {
   font-family: monospace;
   font-weight: medium;
   font-size: 1.1em;
+  text-justify: auto;
   color: #ccc;
   margin: auto;
   max-width: 800px;
   padding-bottom: 0.8em;
   text-align: left;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100px;
 }
 
 @media (max-width: 800px) {
@@ -192,5 +199,7 @@ li {
   margin-top: 1em;
 }
 
-.about a:link {
+.about > a {
+  margin-top: 30px;
+  color: #888;
 }
