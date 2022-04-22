@@ -3,7 +3,7 @@
 }
 
 html {
-  background-color: #111;
+  background-image: -webkit-linear-gradient(-45deg, #111 50%, #222 50%);
   color: #bbb;
   box-sizing: border-box;
   font-size: 15px;
